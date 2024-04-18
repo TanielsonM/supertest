@@ -1,0 +1,19 @@
+{
+  "name": "jest_supertest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "payment.test.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TanielsonM/supertest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TanielsonM/supertest/issues"
+  },
+  "homepage": "https://github.com/TanielsonM/supertest#readme"
+}
