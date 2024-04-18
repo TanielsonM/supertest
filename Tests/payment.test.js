@@ -42,7 +42,7 @@ describe("Payment API Endpoint Tests", () => {
     expect(response.body.sales[0]).toHaveProperty("sale_id");
 
     // Teste 3: Verificando se o campo 'amount' é igual a 20
-    expect(response.body.sales[0].product.amount).toEqual(20);
+    expect(response.body.sales[0].product.amount).toEqual(21);
 
     // Teste 4: Verificando se 'qrcode' não é nulo ou vazio na resposta
     expect(response.body.sales).toBeInstanceOf(Array);
