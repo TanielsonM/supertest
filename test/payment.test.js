@@ -15,7 +15,7 @@ describe("Payment API Endpoint Tests", () => {
         name: "Qa Test",
         email: "test_payer_123456789@testuser.com",
         cellphone: "+5544944444444",
-        document: "707.952.041-08",
+        document: "",
         uuid: "036f3d8c-161e-4ddd-a483-a0d6ac9115fa",
         country_code: "BR",
         zipcode: null,
