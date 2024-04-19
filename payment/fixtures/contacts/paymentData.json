@@ -1,0 +1,42 @@
+{
+  "method": "CREDIT_CARD",
+  "amount": 20,
+  "total": 20,
+  "installments": "1",
+  "product_id": "35008",
+  "products": [
+    {
+      "product_id": 35008,
+      "product_offer": "U7897K"
+    }
+  ],
+  "name": "Tanielson Moura",
+  "email": "testepayment@greenn.cm.br",
+  "cellphone": "+5544444444444",
+  "document": "707.952.041-08",
+  "uuid": "93aa7b27-5c38-438e-a983-e1a782b97a82",
+  "country_code": "BR",
+  "zipcode": null,
+  "street": "",
+  "number": 0,
+  "complement": "",
+  "neighborhood": "",
+  "city": "",
+  "state": "",
+  "language": "pt",
+  "metas": {},
+  "cards": [
+    {
+      "id": "890FB36724D54010BCA1603A3A79FB49",
+      "customer": null,
+      "amount": "20.00",
+      "total": "20.00"
+    }
+  ],
+  "currency_data": {
+    "local_currency": "BRL",
+    "base_currency": "BRL"
+  },
+  "gateway": "IUGU",
+  "client_id": null
+}
