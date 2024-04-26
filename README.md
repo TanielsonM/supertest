@@ -14,6 +14,7 @@ Supertest é uma biblioteca que facilita a realização de testes de integraçã
 ```npm install --save-dev supertest```
 
 # Rodando os testes
+Como a configuração para rodar os testes já foi realizada, basta executar o comando abaixo para rodar todos os testes.
 
 *Run test*
 
