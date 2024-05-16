@@ -7,14 +7,14 @@
   "products": [
     {
       "product_id": 35008,
-      "product_offer": "U7897K"
+      "product_offer": "aRAism"
     }
   ],
-  "name": "Tanielson Moura",
-  "email": "testepayment@greenn.cm.br",
-  "cellphone": "+5544444444444",
+  "name": "Tanielson moura",
+  "email": "teste@mail.com",
+  "cellphone": "+554444444444",
   "document": "707.952.041-08",
-  "uuid": "93aa7b27-5c38-438e-a983-e1a782b97a82",
+  "uuid": "c9423eb5-07d4-4864-b7eb-f05bce8092b6",
   "country_code": "BR",
   "zipcode": null,
   "street": "",
@@ -27,7 +27,9 @@
   "metas": {},
   "cards": [
     {
-      "id": "890FB36724D54010BCA1603A3A79FB49",
+      "id": "798EAE7D9040452CAC08260181732A00",
+      "last_digits": "4444",
+      "first_digits": "555555",
       "customer": null,
       "amount": "20.00",
       "total": "20.00"

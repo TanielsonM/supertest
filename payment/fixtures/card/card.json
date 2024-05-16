@@ -9,16 +9,14 @@
     "cvv": "856",
     "costumer": {
       "external_id": "null",
-      "name": "Tanielson Moura",
-      "phone": "+5544444444444",
-      "email": "testepayment@greenn.cm.br",
+      "name": "Tanielson moura",
+      "phone": "+554444444444",
+      "email": "teste@mail.com",
       "document_number": "70795204108",
       "document_type": "cpf",
       "document": {
         "type": "cpf",
-        "number": "70795204108",
-        "document_type": "cpf",
-        "document_number": "70795204108"
+        "number": "70795204108"
       }
     }
   }
